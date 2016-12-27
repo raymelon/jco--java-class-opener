@@ -1,0 +1,24 @@
+ID ICON "jco.ico"
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "FileDescription", "Java Class Opener"
+      VALUE "FileVersion", "1.0"
+      VALUE "InternalName", "Java Class Opener"
+      VALUE "LegalCopyright", "© 2016 by Raymel Francisco"
+      VALUE "OriginalFilename", "jco.exe"
+      VALUE "ProductName", "Java Class Opener"
+      VALUE "ProductVersion", "1.0"
+    END
+  END
+
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1252
+  END
+END

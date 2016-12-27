@@ -10,9 +10,12 @@
 
 ## *Try and catch* classes with ease... NOW!
 Download the pre-release below:
-> https://github.com/raymelon/jco--java-class-opener/releases/tag/1.0
 
-## Licenses
-- JCO's source files use the [MIT license](https://github.com/raymelon/jco--java-class-opener/blob/master/LICENSE.md). 
+**[jco--java-class-openerv1.0.zip](https://github.com/raymelon/jco--java-class-opener/releases/tag/1.0)**
 
-- Icons used in this file uses [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://github.com/raymelon/jco--java-class-opener/blob/master/LICENSE-icons.md)
+> ***Please associate `.class` files to `jco.exe` once you extracted the release package.***
+
+## Licenses [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/licenses/by-nc/4.0/) 
+- JCO's source files are licensed under [MIT license](https://github.com/raymelon/jco--java-class-opener/blob/master/LICENSE.md). 
+
+- Icons used in this project are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://github.com/raymelon/jco--java-class-opener/blob/master/LICENSE-icons.md)

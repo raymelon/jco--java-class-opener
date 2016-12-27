@@ -6,12 +6,12 @@
 
 >#####*Too lazy to build `.jar` files to run and test your tiny Java app?*
 
->#####*Behold, JCO is meant for you!*
+>#####*Behold, JCO is meant for you!* :dizzy:
 
 ## *Try and catch* classes with ease... NOW!
-Download the pre-release below:
+Catch classes with your mouse. Download the pre-release below. :arrow_down:
 
-**[jco--java-class-openerv1.0.zip](https://github.com/raymelon/jco--java-class-opener/releases/tag/1.0)**
+**[jco--java-class-openerv1.0.zip](https://github.com/raymelon/jco--java-class-opener/releases/tag/1.0)** :package:
 
 > ***Please associate `.class` files to `jco.exe` once you extracted the release package.***
 

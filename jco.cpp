@@ -9,7 +9,7 @@
  * (c) August 2016 Raymel Francisco
  */
 #include <iostream>
-//#include <windows.h>
+#include <windows.h>
 #include <string>
 
 using namespace std;
@@ -34,7 +34,5 @@ int main(int argc, char** args)
 		cout << "No input file." << endl;
 		cout << "jco.exe failed." << endl;
 	}
-	//system("pause");
-	cout << "Press any key to continue...";
-	cin.get();
+	system("pause");
 }

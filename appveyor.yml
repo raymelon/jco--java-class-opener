@@ -1,0 +1,2 @@
+script:
+- g++ -o jco.exe jco.cpp

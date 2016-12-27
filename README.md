@@ -2,7 +2,7 @@
 ####Simple portable app that lets you open Java classes `.class` with your mouse.
  
 ![](https://reposs.herokuapp.com/?path=raymelon/jco--java-class-opener)
-![](https://codeship.com/projects/192622/status?branch=master)
+[![](https://codeship.com/projects/31e79f50-ae45-0134-1184-36e7a5ec89be/status?branch=master)](https://app.codeship.com/projects/192622)
 
 >#####*Bored typing `java <class name>` all the time?*
 

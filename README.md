@@ -1,4 +1,4 @@
-# JCO: Java Class Opener
+# JCO: Java Class Opener [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Behold, JCO is meant for you! Check out Java Class Opener on @github https://github.com/raymelon/jco--java-class-opener @codeship &hashtags=codeshipped)
 ####Simple portable app that lets you open Java classes `.class` with your mouse.
  
 ![](https://reposs.herokuapp.com/?path=raymelon/jco--java-class-opener)

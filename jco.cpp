@@ -1,6 +1,6 @@
 /*
  * jco.cpp
- * Java Class Opener
+ * JCO: Java Class Opener
  * Simple portable app that opens Java classes using double click.
  * No need for cmd, typing java <class name> all the time.
  *

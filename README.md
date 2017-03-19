@@ -1,14 +1,15 @@
-# JCO: Java Class Opener [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Behold, JCO is meant for you! Check out Java Class Opener on @github https://github.com/raymelon/jco--java-class-opener @codeship &hashtags=codeshipped)
-####Simple portable app that lets you open Java classes `.class` with your mouse.
+# JCO: Java Class Opener [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Behold%20JCO%20is%20meant%20for%20you!%20Check%20out%20Java%20Class%20Opener%20on%20%40github%20https://github.com/raymelon/jco--java-class-opener%20@codeship%20&hashtags=codeshipped)
+
+#### Simple portable app that lets you open Java classes `.class` with your mouse.
  
 ![](https://reposs.herokuapp.com/?path=raymelon/jco--java-class-opener)
 [![](https://codeship.com/projects/31e79f50-ae45-0134-1184-36e7a5ec89be/status?branch=master)](https://app.codeship.com/projects/192622)
 
->#####*Bored typing `java <class name>` all the time?*
+>##### *Bored typing `java <class name>` all the time?*
 
->#####*Too lazy to build `.jar` files to run and test your tiny Java app?*
+>##### *Too lazy to build `.jar` files to run and test your tiny Java app?*
 
->#####*Behold, JCO is meant for you!* :dizzy:
+>##### *Behold, JCO is meant for you!* :dizzy:
 
 ## *Try and catch* classes with ease... NOW!
 Catch classes with your mouse. Download the pre-release below. :arrow_down:
